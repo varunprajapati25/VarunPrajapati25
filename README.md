@@ -4,13 +4,13 @@
 
 💻 Currently learning:
 
-* Data Structures & Algorithms (DSA)
-* Web Development (MERN)
+* Data Structures & Algorithms in Java
+* Springboot
 
 🚀 Future Interests:
 
-* Artificial Intelligence (AI)
-* Machine Learning (ML)
+* LangChain4j
+* SpringAI
 
 📚 Passionate about problem-solving, software development, and continuously improving my technical skills.
 
